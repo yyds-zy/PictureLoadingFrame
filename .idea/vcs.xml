@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ModeBuilder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyApplication2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Translation_OfflineMT/OfflineMT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aiaudio-xiaowei/androidapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aiaudio-xiaowei/androidapp/misc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aiaudio-xiaowei/androidapp/native-sdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aiaudio-xiaowei/androidapp/xw-sdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/home_voip/xw-devicesdk-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/home_voip/xw-devicesdk-app/xiaoweiSDK/xiaowei_android_lib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lzyuanxue_space/android_collection_of_articles" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xw-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xw-android/xwapp-ilink-network" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xw-device-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xw-device-sdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xw-device-sdk/Device/Demo_Android/xiaowei_lib/xiaowei_android_lib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xw-devicesdk-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xw-devicesdk-app/lib-xiaoweiSDK/xiaowei_android_lib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xw-devicesdk-app/xiaoweiSDK/xiaowei_android_lib" vcs="Git" />
+  </component>
+</project>
