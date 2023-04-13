@@ -3,6 +3,7 @@
 picture loading frame
 
 ### Usage
+[三级缓存](https://www.jianshu.com/p/81272eb85d84)
 ----
 
 #### Gradle
